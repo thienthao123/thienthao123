@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="https://app.daily.dev/thienthao123"><img src="https://api.daily.dev/devcards/de0283db24034bfc8fa765611b6917b4.png?r=5wo" width="400" alt="Thao's Dev Card"/></a>
+
 <!--
 **thienthao123/thienthao123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
